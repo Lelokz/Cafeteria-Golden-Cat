@@ -9,7 +9,7 @@ export default function Sobre() {
   return (
     <section id="sobre">
       <div>
-        <img src="https://picsum.photos/seed/coffeeshop/800/600" alt="Interior da cafeteria" />
+        <img src="https://i.pinimg.com/736x/b1/2e/c1/b12ec1bc7b924d3e3ed197e35c075e0e.jpg" alt="Interior da cafeteria" />
         <div>
           <h2>Nossa história</h2>
           <p>
